@@ -1,0 +1,2 @@
+recursive-include anylabeling/configs *
+global-include *.ui
